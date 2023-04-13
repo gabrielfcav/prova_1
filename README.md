@@ -17,6 +17,8 @@ O aplicativo será elaborado seguindo os princípios de design centrado no usuá
 
 Em síntese, o aplicativo móvel de programação de horário para ingerir remédios é uma solução para um problema recorrente e que afeta a qualidade de vida de muitas pessoas. O aplicativo proposto tem o potencial de contribuir para a melhoria da adesão ao tratamento farmacológico e para a promoção da saúde e bem-estar dos usuários.
 
+## Ferramentas Utilizadas
+Trello (https://trello.com/)
 
 ## Dependências
 
@@ -46,3 +48,8 @@ As seguintes bibliotecas são necessárias para a execução deste projeto:
 - Notificações para lembrar de tomar medicamentos
 - Banco de dados de fármacos
 - ícone dos fármacos
+
+## Gerenciamento de Projeto
+O projeto está sendo gerenciado utilizando o Trello. O link está abaixo:
+
+Acesse o link [https://trello.com/b/alarme-de-medicamentos](https://trello.com/b/ZB5Kigvi/alarme-de-medicamentos) para visualizar o quadro do projeto.
