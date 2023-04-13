@@ -18,11 +18,14 @@ O aplicativo será elaborado seguindo os princípios de design centrado no usuá
 Em síntese, o aplicativo móvel de programação de horário para ingerir remédios é uma solução para um problema recorrente e que afeta a qualidade de vida de muitas pessoas. O aplicativo proposto tem o potencial de contribuir para a melhoria da adesão ao tratamento farmacológico e para a promoção da saúde e bem-estar dos usuários.
 
 
-### Ferramentas usadas
+## Dependências
 
-- React Native
+As seguintes bibliotecas são necessárias para a execução deste projeto:
 
-### Requisitos
+- React Native: ^0.64.2
+- Input Mask: ^0.9.0
+
+## Requisitos
 
 - Yarn
 - Node.js
