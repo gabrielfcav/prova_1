@@ -39,12 +39,12 @@ As seguintes bibliotecas são necessárias para a execução deste projeto:
 - Adicionar medicamentos
 - Remover medicamentos
 - Adicionar dos medicamentos
+- Marcar medicamentos como tomados/não tomados
 
 
 ## Funcionalidades em desenvolvimento
 
 - Editar medicamentos
-- Marcar medicamentos como tomados/não tomados
 - Notificações para lembrar de tomar medicamentos
 - Banco de dados de fármacos
 - ícone dos fármacos
