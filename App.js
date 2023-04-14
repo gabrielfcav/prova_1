@@ -47,7 +47,6 @@ export default function App() {
       
     }
   };
-
   
   
   return (
@@ -67,17 +66,18 @@ export default function App() {
         data={remedios}
         renderItem={({item}) => (
         
-        <View style={{
-          flexDirection: 'row',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          marginVertical: 10,
-          borderWidth: 1,
-          borderRadius: 10,
-          borderColor: 'black',
-          paddingVertical: 10,
-          paddingHorizontal: 20
-        }}>
+          <View style={{
+            flexDirection: 'row',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            marginVertical: 10,
+            borderWidth: 1,
+            borderRadius: 10,
+            borderColor: 'black',
+            paddingVertical: 10,
+            paddingHorizontal: 20,
+            backgroundColor: item.colored ? 'green' : 'cyan'
+          }}>
             
           <View>
             <Text style={{ fontSize: 18, fontWeight: 'bold' }}>{item.hora}</Text>
